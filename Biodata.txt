@@ -1,4 +1,6 @@
 Biodata
-Nama   : Ulil Ambri
-No. Bp : 1911081009
-Kelas  : TRPL 2B
+Nama    : Ulil Ambri
+No. Bp  : 1911081009
+Kelas   : TRPL 2B
+Jurusan : Teknologi Informasi
+Prodi   : D4 TRPL
